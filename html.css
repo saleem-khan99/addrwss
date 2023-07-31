@@ -1,0 +1,20 @@
+*{
+margin: 0;
+padding: 0;
+    
+}
+vid{
+    color: rgb(18, 194, 194);
+}
+h2{
+    background-color: rgb(6, 144, 71);
+    text-align: center;
+}
+button{
+    background-color: black;
+    color: white;
+    
+    border-color: rgb(69, 230, 206);
+}
+
+
